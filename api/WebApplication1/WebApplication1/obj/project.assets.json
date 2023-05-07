@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "projectPath": "/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/WebApplication1.csproj",
       "packagesPath": "/Users/e1/.nuget/packages/",
-      "outputPath": "/Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/obj/",
+      "outputPath": "/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/e1/.nuget/NuGet/NuGet.Config"

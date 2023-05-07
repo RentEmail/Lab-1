@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "npz2akkF+Oixr4EGCtueiSIhGTwlhz57UP3DRzsNiLyAHQ9LoMZxbI8DapZ3AYStsJrt3AD2aJyNZNl0ESGXBg==",
+  "dgSpecHash": "jNVkJPCmrXjo47paCUg1/vMw2s1qQww3c/6ANP+mcQfFEwuEkSj2CQYK91e0EPcqPC7F2yWBZtYzf/pSm5JrBw==",
   "success": true,
-  "projectFilePath": "/Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/e1/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.16/microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
     "/Users/e1/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.16/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",

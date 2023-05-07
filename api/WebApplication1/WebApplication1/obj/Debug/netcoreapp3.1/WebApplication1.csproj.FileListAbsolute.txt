@@ -65,3 +65,39 @@ D:/tutorial/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes
 /Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll
 /Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb
 /Users/e1/Documents/BiniSoft/50e task/UBT/ReactJS-NetCoreWebAPI-MSSQL-main/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.genruntimeconfig.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.StaticWebAssets.xml
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.deps.json
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.json
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.dev.json
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.pdb
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csproj.AssemblyReference.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfoInputs.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfo.cs
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.Manifest.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.Pack.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.WebApplication1.props
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.RazorTargetAssemblyInfo.cache
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csproj.CopyComplete
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb
+/Users/e1/Documents/BiniSoft/50e task/UBT/Lab 1/api/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.genruntimeconfig.cache
